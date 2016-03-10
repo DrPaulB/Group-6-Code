@@ -1,0 +1,68 @@
+body {
+    background-image: url("Background.png");
+    background-repeat: repeat-x;
+}
+
+.intelekt-nav-left, .navbar-right {
+    margin-top: 2%;
+}
+
+.intelekt-nav-left li a {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding: 0px;
+}
+
+.navbar-right button {
+    margin-left: 10px;
+}
+
+.modules-buttons {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.modules-buttons button {
+    margin: 10px;
+    width: 40%;
+}
+
+.modules-lect-button a, .modules-lect-button button {
+    margin-bottom: 2%;
+}
+
+.modules-lect-button a {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.modules-lect-button button {
+    margin-left: 2%;
+}
+
+iframe {
+    margin-left: 9%;
+}
+
+.lectureBTN {
+    margin-left: 40%;
+    margin-bottom: 1%;
+}
+
+.glypbuttons {
+    float: right;
+    margin-left: 4px;
+}
+
+.date-deadline {
+    float: right;
+}
+
+.textnotes {
+    width: 100%;
+}
+
+.form-comments {
+    width: 80% !important;
+}
